@@ -1,5 +1,3 @@
-# Database
-
 # Library Management System
 
 # Overview
